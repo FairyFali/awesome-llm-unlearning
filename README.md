@@ -10,11 +10,6 @@
 
 This repository tracks the latest research on machine unlearning in large language models (LLMs). The goal is to offer a comprehensive list of papers and resources relevant to the topic.
 
-As of the last commit, there are **261** papers, **13** surveys and position papers, **1** framework, and **2** blog posts.
-
-> [!NOTE]
-> If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue or submit a pull request, and I will be happy to update the list.
-
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -35,6 +30,21 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 
 ### 2025
 
+- [Approximate Domain Unlearning for Vision-Language Models](https://arxiv.org/abs/2510.08132)
+  - Author(s): Kodai Kawamura, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
+  - Date: 2025-10
+  - Venue: NeurIPS 2025
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kodaikawamura/domain-unlearning)
+- [CoUn: Empowering Machine Unlearning via Contrastive Learning](https://arxiv.org/abs/2509.16391)
+  - Author(s): Yasser H. Khalil, Mehdi Setayesh, Hongliang Li
+  - Date: 2025-09
+  - Venue: NeurIPS 2025
+  - Code: -
+- [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/abs/2507.16302)
+  - Author(s): Boheng Li, Renjie Gu, Junjie Wang, Leyi Qi, Yiming Li, Run Wang, Zhan Qin, Tianwei Zhang
+  - Date: 2025-07
+  - Venue: NeurIPS 2025
+  - Code: -
 - [What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests](https://arxiv.org/abs/2507.11128)
   - Author(s): Dimitri Staufer
   - Date: 2025-07
@@ -65,6 +75,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Date: 2025-07
   - Venue: -
   - Code: -
+- [Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](https://arxiv.org/abs/2506.10236)
+  - Author(s): Yeonwoo Jang, Shariqah Hossain, Ashwin Sreevatsa, Diogo Cruz
+  - Date: 2025-06
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/diogo-cruz/prompt_attacks_paper)
 - [SoK: Semantic Privacy in Large Language Models](https://arxiv.org/abs/2506.23603)
   - Author(s): Baihe Ma, Yanna Jiang, Xu Wang, Guangsheng Yu, Qin Wang, Caijun Sun, Chen Li, Xuelei Qi, Ying He, Wei Ni, Ren Ping Liu
   - Date: 2025-06
@@ -123,7 +138,7 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics](https://arxiv.org/abs/2506.12618)
   - Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, Zachary C. Lipton, J. Zico Kolter, Pratyush Maini
   - Date: 2025-06
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: -
 - [Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization](https://arxiv.org/abs/2506.12484)
   - Author(s): Filip Sondej, Yushi Yang, Mikołaj Kniejski, Marcel Windys
@@ -158,12 +173,12 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [RULE: Reinforcement UnLEarning Achieves Forget-Retain Pareto Optimality](https://arxiv.org/abs/2506.07171)
   - Author(s): Chenlong Zhang, Zhuoran Jin, Hongbang Yuan, Jiaheng Wei, Tong Zhou, Kang Liu, Jun Zhao, Yubo Chen
   - Date: 2025-06
-  - Venue: -
-  - Code: -
+  - Venue: NeurIPS 2025
+  - Code: https://github.com/chenlong-clock/RULE-Unlearn
 - [Distillation Robustifies Unlearning](https://arxiv.org/abs/2506.06278)
   - Author(s): Bruce W. Lee, Addie Foote, Alex Infanger, Leni Shor, Harish Kamath, Jacob Goldman-Wetzler, Bryce Woodworth, Alex Cloud, Alexander Matt Turner
   - Date: 2025-06
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: -
 - [Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](https://arxiv.org/abs/2506.06112)
   - Author(s): Cheng-Long Wang, Qi Li, Zihang Xiang, Yinzhi Cao, Di Wang
@@ -173,7 +188,7 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness](https://arxiv.org/abs/2506.05735)
   - Author(s): Rongzhe Wei, Peizhi Niu, Hans Hao-Hsun Hsu, Ruihan Wu, Haoteng Yin, Mohsen Ghassemi, Yifan Li, Vamsi K. Potluru, Eli Chien, Kamalika Chaudhuri, Olgica Milenkovic, Pan Li
   - Date: 2025-06
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: -
 - [Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](https://arxiv.org/abs/2506.05314)
   - Author(s): Taha Entesari, Arman Hatami, Rinat Khaziev, Anil Ramakrishna, Mahyar Fazlyab
@@ -218,11 +233,36 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://arxiv.org/abs/2506.00359)
   - Author(s): Jie Ren, Zhenwei Dai, Xianfeng Tang, Yue Xing, Shenglai Zeng, Hui Liu, Jingying Zeng, Qiankun Peng, Samarth Varshney, Suhang Wang, Qi He, Charu C. Aggarwal, Hui Liu
   - Date: 2025-06
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: -
 - [Aligned but Blind: Alignment Increases Implicit Bias by Reducing Awareness of Race](https://arxiv.org/abs/2506.00253)
+  - Author(s): Taha Entesari, Arman Hatami, Rinat Khaziev, Anil Ramakrishna, Mahyar Fazlyab
+  - Date: 2025-06
+  - Venue: -
+  - Code: -
+- [Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](https://arxiv.org/abs/2506.05314)
   - Author(s): Lihao Sun, Chengzhi Mao, Valentin Hofmann, Xuechunzi Bai
   - Date: 2025-06
+  - Venue: NeurIPS 2025
+  - Code: -
+- [CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models](https://arxiv.org/abs/2505.12677)
+  - Author(s): Shristi Das Biswas, Arani Roy, Kaushik Roy
+  - Date: 2025-05
+  - Venue: NeurIPS 2025
+  - Code: https://github.com/ShristiDasBiswas/CURE-Concept-Unlearning-via-Orthogonal-Representation-Editing-in-Diffusion-Models
+- [Efficient Verified Machine Unlearning For Distillation](https://arxiv.org/abs/2503.22539)
+  - Author(s): Yijun Quan, Zushu Li, Giovanni Montana
+  - Date: 2025-05
+  - Venue: NeurIPS 2025
+  - Code: -
+- [Machine Unlearning under Overparameterization](https://arxiv.org/abs/2505.22601)
+  - Author(s): Jacob L. Block, Aryan Mokhtari, Sanjay Shakkottai
+  - Date: 2025-05
+  - Venue: NeurIPS 2025
+  - Code: -
+- [Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://arxiv.org/abs/2506.00359)
+  - Author(s): Jie Ren, Zhenwei Dai, Xianfeng Tang, Yue Xing, Shenglai Zeng, Hui Liu, Jingying Zeng, Qiankun Peng, Samarth Varshney, Suhang Wang, Qi He, Charu C. Aggarwal, Hui Liu
+  - Date: 2025-05
   - Venue: -
   - Code: -
 - [Model Unlearning via Sparse Autoencoder Subspace Guided Projections](https://arxiv.org/abs/2505.24428)
@@ -233,8 +273,8 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [Breaking the Gold Standard: Extracting Forgotten Data under Exact Unlearning in Large Language Models](https://arxiv.org/abs/2505.24379)
   - Author(s): Xiaoyu Wu, Yifei Pang, Terrance Liu, Zhiwei Steven Wu
   - Date: 2025-05
-  - Venue: -
-  - Code: -
+  - Venue: NeurIPS 2025
+  - Code: https://github.com/Nicholas0228/unlearned_data_extraction_llm
 - [Does Machine Unlearning Truly Remove Model Knowledge? A Framework for Auditing Unlearning in LLMs](https://arxiv.org/abs/2505.23270)
   - Author(s): Haokun Chen, Yueqi Zhang, Yuan Bi, Yao Zhang, Tong Liu, Jinhe Bi, Jian Lan, Jindong Gu, Claudia Grosser, Denis Krompass, Nassir Navab, Volker Tresp
   - Date: 2025-05
@@ -243,8 +283,8 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [From Dormant to Deleted: Tamper-Resistant Unlearning Through Weight-Space Regularization](https://arxiv.org/abs/2505.22310)
   - Author(s): Shoaib Ahmed Siddiqui, Adrian Weller, David Krueger, Gintare Karolina Dziugaite, Michael Curtis Mozer, Eleni Triantafillou
   - Date: 2025-05
-  - Venue: -
-  - Code: -
+  - Venue: NeurIPS 2025
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shoaibahmed/vision_relearning)
 - [Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)
   - Author(s): Zexi Li, Xiangzhu Wang, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu, Nicholas D. Lane
   - Date: 2025-05
@@ -358,7 +398,7 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [DualOptim: Enhancing Efficacy and Stability in Machine Unlearning with Dual Optimizers](https://arxiv.org/abs/2504.15827)
   - Author(s): Xuyang Zhong, Haochen Luo, Chen Liu
   - Date: 2025-04
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: -
 - [ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data](https://arxiv.org/abs/2504.14452)
   - Author(s): Tong Chen, Faeze Brahman, Jiacheng Liu, Niloofar Mireshghallah, Weijia Shi, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi
@@ -593,7 +633,7 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [LUNAR: LLM Unlearning via Neural Activation Redirection](https://arxiv.org/abs/2502.07218)
   - Author(s): William F. Shen, Xinchi Qiu, Meghdad Kurmanji, Alex Iacob, Lorenzo Sani, Yihong Chen, Nicola Cancedda, Nicholas D. Lane
   - Date: 2025-02
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: -
 - [Mitigating Sensitive Information Leakage in LLMs4Code through Machine Unlearning](https://arxiv.org/abs/2502.05739)
   - Author(s): Ruotong Geng, Mingyang Geng, Shangwen Wang, Haotian Wang, Zhipeng Lin, Dezun Dong
@@ -629,6 +669,16 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Author(s): Binchi Zhang, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen
   - Date: 2025-02
   - Venue: -
+  - Code: -
+- [Bridge the Gaps between Machine Unlearning and AI Regulation](https://arxiv.org/abs/2502.12430)
+  - Author(s): Bill Marino, Meghdad Kurmanji, Nicholas D. Lane
+  - Date: 2025-02
+  - Venue: NeurIPS 2025
+  - Code: -
+- [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://arxiv.org/abs/2501.02728)
+  - Author(s): Bowen Fan, Yuming Ai, Xunkai Li, Zhilin Guo, Rong-Hua Li, Guoren Wang
+  - Date: 2025-01
+  - Venue: NeurIPS 2025
   - Code: -
 - [Improving the Robustness of Representation Misdirection for Large Language Model Unlearning](https://arxiv.org/abs/2501.19202)
   - Author(s): Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue
@@ -713,6 +763,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Date: 2024-11
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/k1rezaei/restor)
+- [Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy](https://arxiv.org/abs/2410.09591)
+  - Author(s): Yangsibo Huang, Daogao Liu, Lynn Chua, Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, Milad Nasr, Amer Sinha, Chiyuan Zhang
+  - Date: 2024-10
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/daogaoliu/unlearning-under-adversary)
 - [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
   - Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
   - Date: 2024-10
@@ -806,7 +861,7 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163)
   - Author(s): Chongyu Fan, Jiancheng Liu, Licong Lin, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu
   - Date: 2024-10
-  - Venue: -
+  - Venue: NeurIPS 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-Simple)
 - [Dissecting Fine-Tuning Unlearning in Large Language Models](https://arxiv.org/abs/2410.06606)
   - Author(s): Yihuai Hong, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang
@@ -832,6 +887,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Author(s): Shota Takashiro, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo
   - Date: 2024-10
   - Venue: -
+  - Code: -
+- [Rewind-to-Delete: Certified Machine Unlearning for Nonconvex Functions](https://arxiv.org/abs/2409.09778)
+  - Author(s): Siqiao Mu, Diego Klabjan
+  - Date: 2024-09
+  - Venue: NeurIPS 2025
   - Code: -
 - [An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025)
   - Author(s): Jakub Łucki, Boyi Wei, Yangsibo Huang, Peter Henderson, Florian Tramèr, Javier Rando
@@ -1121,8 +1181,13 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://aclanthology.org/2024.emnlp-main.245/)
   - Author(s): Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
   - Date: 2024-04
-  - Venue: - EMNLP 2024
+  - Venue: EMNLP 2024
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/SOUL)
+- [Towards Reliable Empirical Machine Unlearning Evaluation: A Cryptographic Game Perspective](https://arxiv.org/abs/2404.11577)
+  - Author(s): Yiwen Tu, Pingbang Hu, Jiaqi Ma
+  - Date: 2024-04
+  - Venue: NeurIPS 2025
+  - Code: -
 - [Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)
   - Author(s): Kongyang Chen, Zixin Wang, Bing Mi, Waixi Liu, Shaowei Wang, Xiaojun Ren, Jiaxing Shen
   - Date: 2024-04
@@ -1143,6 +1208,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Date: 2024-04
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/licong-lin/negative-preference-optimization)
+- [Backdoor Attacks via Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/29321)
+  - Author(s): Zihao Liu, Tianhao Wang, Mengdi Huai, Chenglin Miao
+  - Date: 2024-03
+  - Venue: AAAI 2024
+  - Code: -
 - [Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)
   - Author(s): Niklas Stoehr, Mitchell Gordon, Chiyuan Zhang, Owen Lewis
   - Date: 2024-03
@@ -1178,6 +1248,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Date: 2024-03
   - Venue: ICLR 2024 SeT-LLM Workshop
   - Code: -
+- [Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space](https://arxiv.org/abs/2402.09063)
+  - Author(s): Leo Schwinn, David Dobre, Sophie Xhonneux, Gauthier Gidel, Stephan Gunnemann
+  - Date: 2024-02
+  - Venue: NeurIPS 2024
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SchwinnL/LLM_Embedding_Attack)
 - [Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.11537)
   - Author(s): Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning
   - Date: 2024-02
@@ -1371,7 +1446,7 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 - [Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://arxiv.org/abs/2412.06966)
   - Author(s): A. Feder Cooper, Christopher A. Choquette-Choo, Miranda Bogen, Matthew Jagielski, Katja Filippova, Ken Ziyu Liu, Alexandra Chouldechova, Jamie Hayes, Yangsibo Huang, Niloofar Mireshghallah, Ilia Shumailov, Eleni Triantafillou, Peter Kairouz, Nicole Mitchell, Percy Liang, Daniel E. Ho, Yejin Choi, Sanmi Koyejo, Fernando Delgado, James Grimmelmann, Vitaly Shmatikov, Christopher De Sa, Solon Barocas, Amy Cyphert, Mark Lemley, danah boyd, Jennifer Wortman Vaughan, Miles Brundage, David Bau, Seth Neel, Abigail Z. Jacobs, Andreas Terzis, Hanna Wallach, Nicolas Papernot, Katherine Lee
   - Date: 2024-12
-  - Venue: -
+  - Venue: NeurIPS 2025
 - [Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/abs/2410.02879)
   - Author(s): Pratiksha Thaker, Shengyuan Hu, Neil Kale, Yash Maurya, Zhiwei Steven Wu, Virginia Smith
   - Date: 2024-10
