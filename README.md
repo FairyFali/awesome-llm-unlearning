@@ -45,6 +45,41 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2025-07
   - Venue: NeurIPS 2025
   - Code: -
+- [Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport](https://aclanthology.org/2025.acl-long.1371/)
+  - Author(s): Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: https://github.com/brightjade/Opt-Out
+- [Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models](https://aclanthology.org/2025.findings-acl.630/)
+  - Author(s): Jiaqi Li, Chuanyi Zhang, Miaozeng Du, Hui Zhang, Yongrui Chen, Qianshan Wei, Junfeng Fang, Ruipeng Wang, Sheng Bi, Guilin Qi
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: -
+- [Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models](https://aclanthology.org/2025.findings-acl.719/)
+  - Author(s): Lishuai Hou, Zixiong Wang, Gaoyang Liu, Chen Wang, Wei Liu, Kai Peng
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: -
+- [From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs](https://aclanthology.org/2025.findings-acl.535/)
+  - Author(s): Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Xiuying Chen, Yujiu Yang, Yan Teng, Yingchun Wang
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: https://github.com/Carol-gutianle/MEOW
+- [CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP](https://aclanthology.org/2025.acl-long.1469/)
+  - Author(s): Tianyu Yang, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: https://github.com/Tianyu-yang-anna/ClipErase-ACL
+- [SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?](https://aclanthology.org/2025.acl-long.424/)
+  - Author(s): Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu, Xiangliang Zhang
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: -
+- [Disentangling Biased Knowledge from Reasoning in Large Language Models via Machine Unlearning](https://aclanthology.org/2025.acl-long.305/)
+  - Author(s): Zheyuan Liu, Suraj Maharjan, Fanyou Wu, Rahil Parikh, Belhassen Bayar, Srinivasan H. Sengamedu, Meng Jiang
+  - Date: 2025-07
+  - Venue: ACL 2025
+  - Code: -
 - [What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests](https://arxiv.org/abs/2507.11128)
   - Author(s): Dimitri Staufer
   - Date: 2025-07
@@ -75,6 +110,36 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2025-07
   - Venue: -
   - Code: -
+- [Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech](https://arxiv.org/abs/2507.20140)
+  - Author(s): Taesoo Kim, Jinju Kim, Dongchan Kim, Jong Hwan Ko, Gyeong-Moon Park
+  - Date: 2025-07
+  - Venue: ICML 2025
+  - Code: https://github.com/mokcho/spk_id_unlearn_icml2025
+- [Flexible, Efficient, and Stable Adversarial Attacks on Machine Unlearning](https://openreview.net/pdf?id=ba3sSfEnj1)
+  - Author(s): Z Zhou, Y Zhou, Z Zhang, L Lyu, D Yan, R Jin, D Dou
+  - Date: 2025-07
+  - Venue: ICML 2025
+  - Code: https://github.com/zzz0134/DDPA
+- [NegMerge: Sign-Consensual Weight Merging for Machine Unlearning](https://openreview.net/pdf?id=ZbWXovStjD)
+  - Author(s): HS Kim, D Han, J Choe
+  - Date: 2025-07
+  - Venue: ICML 2025
+  - Code: https://github.com/naver-ai/negmerge
+- [Not All Wrong is Bad: Using Adversarial Examples for Unlearning](https://openreview.net/pdf?id=BkrIQPREkn)
+  - Author(s): Ali Ebrahimpour-Boroojeny, Hari Sundaram, Varun Chandrasekaran
+  - Date: 2025-07
+  - Venue: ICML 2025
+  - Code: -
+- [Fast Exact Unlearning for In-Context Learning Data for LLMs](https://openreview.net/pdf?id=TzNVZEsqTi)
+  - Author(s): Andrei Muresanu, Anvith Thudi, Michael R. Zhang, Nicolas Papernot
+  - Date: 2025-07
+  - Venue: ICML 2025
+  - Code: -
+- [Efficient Source-free Unlearning via Energy-Guided Data Synthesis and Discrimination-Aware Multitask Optimization](https://openreview.net/pdf?id=tqL8gJsuS5)
+  - Author(s): X Wang, C Chen, W Liu, X Liao, F Wang, X Zheng
+  - Date: 2025-07
+  - Venue: ICML 2025
+  - Code: -
 - [Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](https://arxiv.org/abs/2506.10236)
   - Author(s): Yeonwoo Jang, Shariqah Hossain, Ashwin Sreevatsa, Diogo Cruz
   - Date: 2025-06
@@ -85,6 +150,26 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2025-06
   - Venue: -
   - Code: -
+- [A Certified Unlearning Approach without Access to Source Data](https://arxiv.org/abs/2506.06486)
+  - Author(s): Umit Yigit Basaran, Sk Miraj Ahmed, Amit Roy-Chowdhury, Basak Guler
+  - Date: 2025-06
+  - Venue: ICML 2025
+  - Code: -
+- [PDUDT: Provable Decentralized Unlearning under Dynamic Topologies](https://openreview.net/pdf?id=K0Vg8b7nyI)
+  - Author(s): J Qiao, Y Liu, Z Chen, M Li, Y Yuan, X Zhang, D Yu
+  - Date: 2025-06
+  - Venue: ICML 2025
+  - Code: -
+- [Adaptive localization of knowledge negation for continual llm unlearning](https://openreview.net/pdf?id=tcK4PV3VN4)
+  - Author(s): A Wuerkaixi, Q Wang, S Cui, W Xu, B Han, G Niu, M Sugiyama, C Zhang
+  - Date: 2025-06
+  - Venue: ICML 2025
+  - Code: https://github.com/zaocan666/ALKN
+- [Certified Unlearning for Neural Networks](https://arxiv.org/abs/2506.06985)
+  - Author(s): Anastasia Koloskova, Youssef Allouah, Animesh Jha, Rachid Guerraoui, Sanmi Koyejo
+  - Date: 2025-06
+  - Venue: ICML 2025
+  - Code: https://github.com/stair-lab/certified-unlearning-neural-networks-icml-2025
 - [Model State Arithmetic for Machine Unlearning](https://arxiv.org/abs/2506.20941)
   - Author(s): Keivan Rezaei, Mehrdad Saberi, Abhilasha Ravichander, Soheil Feizi
   - Date: 2025-06
@@ -218,8 +303,8 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream Fine-Tuning](https://arxiv.org/abs/2506.01339)
   - Author(s): Changsheng Wang, Yihua Zhang, Jinghan Jia, Parikshit Ram, Dennis Wei, Yuguang Yao, Soumyadeep Pal, Nathalie Baracaldo, Sijia Liu
   - Date: 2025-06
-  - Venue: -
-  - Code: -
+  - Venue: ICML 2025
+  - Code: https://github.com/OPTML-Group/Unlearn-ILU
 - [Not Every Token Needs Forgetting: Selective Unlearning to Limit Change in Utility in Large Language Model Unlearning](https://arxiv.org/abs/2506.00876)
   - Author(s): Yixin Wan, Anil Ramakrishna, Kai-Wei Chang, Volkan Cevher, Rahul Gupta
   - Date: 2025-06
@@ -240,10 +325,20 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2025-06
   - Venue: -
   - Code: -
+- [System-Aware Unlearning Algorithms: Use Lesser, Forget Faster](https://arxiv.org/abs/2506.06073)
+  - Author(s): Linda Lu, Ayush Sekhari, Karthik Sridharan
+  - Date: 2025-06
+  - Venue: ICML 2025
+  - Code: -
 - [Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](https://arxiv.org/abs/2506.05314)
   - Author(s): Lihao Sun, Chengzhi Mao, Valentin Hofmann, Xuechunzi Bai
   - Date: 2025-06
   - Venue: NeurIPS 2025
+  - Code: -
+- [Leveraging Per-Instance Privacy for Machine Unlearning](https://arxiv.org/abs/2505.18786)
+  - Author(s): Nazanin Mohammadi Sepahvand, Anvith Thudi, Berivan Isik, Ashmita Bhattacharyya, Nicolas Papernot, Eleni Triantafillou, Daniel M. Roy, Gintare Karolina Dziugaite
+  - Date: 2025-05
+  - Venue: ICML 2025
   - Code: -
 - [CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models](https://arxiv.org/abs/2505.12677)
   - Author(s): Shristi Das Biswas, Arani Roy, Kaushik Roy
@@ -296,9 +391,9 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: -
   - Code: -
 - [Safety Alignment via Constrained Knowledge Unlearning](https://arxiv.org/abs/2505.18588)
-  - Author(s): Zesheng Shi, Yucheng Zhou, Jing Li
+  - Author(s): Zesheng Shi, Yucheng Zhou, Jing Li, Yuxin Jin, Yu Li, Daojing He, Fangming Liu, Saleh Alharbi, Jun Yu, Min Zhang
   - Date: 2025-05
-  - Venue: -
+  - Venue: ACL 2025
   - Code: -
 - [T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models](https://arxiv.org/abs/2505.17550)
   - Author(s): Xiaoyu Ye, Songjie Cheng, Yongtao Wang, Yajiao Xiong, Yishen Li
@@ -358,7 +453,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning](https://arxiv.org/abs/2505.11953)
   - Author(s): Puning Yang, Qizhou Wang, Zhuo Huang, Tongliang Liu, Chengqi Zhang, Bo Han
   - Date: 2025-05
-  - Venue: -
+  - Venue: ICML 2025 Poster
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Puning97/SatImp-for-LLM-Unlearning)
 - [Layered Unlearning for Adversarial Relearning](https://arxiv.org/abs/2505.09500)
   - Author(s): Timothy Qian, Vinith Suriyakumar, Ashia Wilson, Dylan Hadfield-Menell
@@ -368,8 +463,8 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation](https://arxiv.org/abs/2505.06027)
   - Author(s): Stefan Vasilev, Christian Herold, Baohao Liao, Seyyed Hadi Hashemi, Shahram Khadivi, Christof Monz
   - Date: 2025-05
-  - Venue: -
-  - Code: -
+  - Venue: ACL 2025 Findings
+  - Code: https://github.com/eBay/Unilogit
 - [WaterDrum: Watermarking for Data-centric Unlearning Metric](https://arxiv.org/abs/2505.05064)
   - Author(s): Xinyang Lu, Xinyuan Niu, Gregory Kang Ruey Lau, Bui Thi Cam Nhung, Rachael Hwee Ling Sim, Fanyu Wen, Chuan-Sheng Foo, See-Kiong Ng, Bryan Kian Hsiang Low
   - Date: 2025-05
@@ -423,8 +518,18 @@ This repository tracks the latest research on machine unlearning in large langua
 - [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://arxiv.org/abs/2504.10957)
   - Author(s): Hongkang Li, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen
   - Date: 2025-04
-  - Venue: -
-  - Code: ICLR 2025
+  - Venue: ICLR 2025
+  - Code: -
+- [Machine unlearning via simulated oracle matching](https://openreview.net/pdf?id=3vXpZpOn29)
+  - Author(s): K Georgiev, R Rinberg, SM Park, S Garg, A Ilyas, A Madry, S Neel
+  - Date: 2025-04
+  - Venue: ICLR 2025
+  - Code: -
+- [Selective unlearning via representation erasure using domain adversarial training](https://openreview.net/pdf?id=KzSGJy1PIf)
+  - Author(s): NM Sepahvand, E Triantafillou, H Larochelle, D Precup, JJ Clark, DM Roy, GK Dziugaite
+  - Date: 2025-04
+  - Venue: ICLR 2025
+  - Code: -
 - [LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks](https://arxiv.org/abs/2504.10185)
   - Author(s): Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura, Sijia Liu
   - Date: 2025-04
@@ -518,8 +623,8 @@ This repository tracks the latest research on machine unlearning in large langua
 - [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/abs/2503.09117)
   - Author(s): Yue Wang, Qizhou Wang, Feng Liu, Wei Huang, Yali Du, Xiaojiang Du, Bo Han
   - Date: 2025-03
-  - Venue: -
-  - Code: -
+  - Venue: ICML 2025 
+  - Code: https://github.com/tmlr-group/GRU
 - [Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models](https://arxiv.org/abs/2503.04795)
   - Author(s): Dinesh Srivasthav P, Bala Mallikarjunarao Garlapati
   - Date: 2025-03
@@ -545,6 +650,26 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2025-03
   - Venue: -
   - Code: -
+- [Knowledge Swapping via Learning and Unlearning](https://arxiv.org/abs/2502.08075)
+  - Author(s): Mingyu Xing, Lechao Cheng, Shengeng Tang, Yaxiong Wang, Zhun Zhong, Meng Wang
+  - Date: 2025-02
+  - Venue: ICML 2025 Poster
+  - Code: https://github.com/xingmingyu123456/KnowledgeSwapping
+- [SEMU: Singular Value Decomposition for Efficient Machine Unlearning](https://arxiv.org/abs/2502.07587)
+  - Author(s): Marcin Sendera, Łukasz Struski, Kamil Książek, Kryspin Musiol, Jacek Tabor, Dawid Rymarczyk
+  - Date: 2025-02
+  - Venue: ICML 2025 Poster
+  - Code: -
+- [When to Forget? Complexity Trade-offs in Machine Unlearning](https://arxiv.org/abs/2502.17323)
+  - Author(s): Martin Van Waerebeke, Marco Lorenzi, Giovanni Neglia, Kevin Scaman
+  - Date: 2025-02
+  - Venue: ICML 2025 Poster
+  - Code: -
+- [Rectifying Belief Space via Unlearning to Harness LLMs' Reasoning](https://arxiv.org/abs/2502.20620)
+  - Author(s): Ayana Niwa, Masahiro Kaneko, Kentaro Inui
+  - Date: 2025-02
+  - Venue: ACL 2025 Findings
+  - Code: -
 - [Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large Language Models](https://arxiv.org/abs/2502.19982)
   - Author(s): Huazheng Wang, Yongcheng Jing, Haifeng Sun, Yingjie Wang, Jingyu Wang, Jianxin Liao, Dacheng Tao
   - Date: 2025-02
@@ -553,13 +678,13 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/abs/2502.19726)
   - Author(s): Toan Tran, Ruixuan Liu, Li Xiong
   - Date: 2025-02
-  - Venue: -
-  - Code: -
+  - Venue: ACL 2025 Findings
+  - Code: https://github.com/Emory-AIMS/duolearn
 - [Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond](https://arxiv.org/abs/2502.19301)
   - Author(s): Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han, Kilian Q. Weinberger
   - Date: 2025-02
-  - Venue: -
-  - Code: -
+  - Venue: ICLR 2025
+  - Code: https://github.com/tmlr-group/G-effect
 - [FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge](https://arxiv.org/abs/2502.19207)
   - Author(s): Nakyeong Yang, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung
   - Date: 2025-02
@@ -570,15 +695,20 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2025-02
   - Venue: -
   - Code: -
+- [Adversarial Mixup Unlearning](https://arxiv.org/abs/2502.10288)
+  - Author(s): Zhuoyi Peng, Yixuan Tang, Yi Yang
+  - Date: 2025-02
+  - Venue: ICLR 2025
+  - Code: -
 - [A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/abs/2502.17823)
   - Author(s): Jie Ren, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu
   - Date: 2025-02
-  - Venue: -
+  - Venue: ACL 2025 Findings
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/renjie3/GRUN)
 - [Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2502.15910)
   - Author(s): Zheyuan Liu, Guangyao Dou, Xiangchi Yuan, Chunhui Zhang, Zhaoxuan Tan, Meng Jiang
   - Date: 2025-02
-  - Venue: -
+  - Venue: ACL 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/franciscoliu/MANU)
 - [Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models](https://arxiv.org/abs/2502.15836)
   - Author(s): Haokun Chen, Sebastian Szyller, Weilin Xu, Nageen Himayat
@@ -608,28 +738,28 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis](https://arxiv.org/abs/2502.13996)
   - Author(s): Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, Tianyu Yang, Yao Su, Xiangliang Zhang
   - Date: 2025-02
-  - Venue: -
+  - Venue: ACL 2025 Findings
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lyicheng619/UNCD)
 - [SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](https://arxiv.org/abs/2502.12520)
   - Author(s): Junkai Chen, Zhijie Deng, Kening Zheng, Yibo Yan, Shuliang Liu, PeiJun Wu, Peijie Jiang, Jia Liu, Xuming Hu
   - Date: 2025-02
-  - Venue: -
-  - Code: -
+  - Venue: ACL 2025 Findings
+  - Code: https://github.com/yuu250/SafeEraser
 - [Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning](https://arxiv.org/abs/2502.11441)
   - Author(s): Hwan Chang, Hwanhee Lee
   - Date: 2025-02
-  - Venue: -
+  - Venue: ACL 2025
   - Code: -
 - [ReLearn: Unlearning via Learning for Large Language Models](https://arxiv.org/abs/2502.11190)
   - Author(s): Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang
   - Date: 2025-02
-  - Venue: -
+  - Venue: ACL 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zjunlp/unlearn)
 - [MMUNLEARNER: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models](https://arxiv.org/abs/2502.11051)
   - Author(s): Jiahao Huo, Yibo Yan, Xu Zheng, Yuanhuiyi Lyu, Xin Zou, Zhihua Wei, Xuming Hu
   - Date: 2025-02
-  - Venue: -
-  - Code: -
+  - Venue: ACL 2025 Findings
+  - Code: https://github.com/Z1zs/MMUnlearner
 - [LUNAR: LLM Unlearning via Neural Activation Redirection](https://arxiv.org/abs/2502.07218)
   - Author(s): William F. Shen, Xinchi Qiu, Meghdad Kurmanji, Alex Iacob, Lorenzo Sani, Yihong Chen, Nicola Cancedda, Nicholas D. Lane
   - Date: 2025-02
@@ -643,7 +773,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](https://arxiv.org/abs/2502.05374)
   - Author(s): Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong, Sijia Liu
   - Date: 2025-02
-  - Venue: -
+  - Venue: ICML 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OPTML-Group/Unlearn-Smooth)
 - [Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities](https://arxiv.org/abs/2502.05209)
   - Author(s): Zora Che, Stephen Casper, Robert Kirk, Anirudh Satheesh, Stewart Slocum, Lev E McKinney, Rohit Gandikota, Aidan Ewart, Domenic Rosati, Zichu Wu, Zikui Cai, Bilal Chughtai, Yarin Gal, Furong Huang, Dylan Hadfield-Menell
@@ -658,7 +788,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Tool Unlearning for Tool-Augmented LLMs](https://arxiv.org/abs/2502.01083)
   - Author(s): Jiali Cheng, Hadi Amiri
   - Date: 2025-02
-  - Venue: -
+  - Venue: ICML 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CLU-UML/MU-Bench)
 - [ALU: Agentic LLM Unlearning](https://arxiv.org/abs/2502.00406)
   - Author(s): Debdeep Sanyal, Murari Mandal
@@ -693,6 +823,11 @@ This repository tracks the latest research on machine unlearning in large langua
 
 ### 2024
 
+- [A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph Neural Networks](https://arxiv.org/abs/2412.00789)
+  - Author(s): Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao
+  - Date: 2024-12
+  - Venue: ICML 2025
+  - Code: https://github.com/cognac-gnn-unlearning/corrective-unlearning-for-gnns
 - [Multi-Objective Large Language Model Unlearning](https://arxiv.org/abs/2412.20412)
   - Author(s): Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao
   - Date: 2024-12
@@ -711,12 +846,17 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning](https://arxiv.org/abs/2412.08559)
   - Author(s): Rongzhe Wei, Mufei Li, Mohsen Ghassemi, Eleonora Kreačić, Yifan Li, Xiang Yue, Bo Li, Vamsi K. Potluru, Pan Li, Eli Chien
   - Date: 2024-12
-  - Venue: -
-  - Code: -
+  - Venue: ICML 2025
+  - Code: https://github.com/Graph-COM/Minority_Aware_LLM_Unlearning
 - [Classifier-free guidance in LLMs Safety](https://arxiv.org/abs/2412.06846)
   - Author(s): Roman Smirnov
   - Date: 2024-12
   - Venue: -
+  - Code: -
+- [The Utility and Complexity of in- and out-of-Distribution Machine Unlearning](https://arxiv.org/abs/2412.09119)
+  - Author(s): Youssef Allouah, Joshua Kazdan, Rachid Guerraoui, Sanmi Koyejo
+  - Date: 2024-12
+  - Venue: ICLR 2025
   - Code: -
 - [Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/abs/2412.00383)
   - Author(s): Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He
@@ -736,8 +876,13 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Provable unlearning in topic modeling and downstream tasks](https://arxiv.org/abs/2411.12600)
   - Author(s): Stanley Wei, Sadhika Malladi, Sanjeev Arora, Amartya Sanyal
   - Date: 2024-11
-  - Venue: -
+  - Venue: ICLR 2025
   - Code: -
+- [Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/abs/2412.00383)
+  - Author(s): Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He
+  - Date: 2024-11
+  - Venue: ICLR 2025
+  - Code: https://github.com/oceanoceanna/LLMEraser
 - [Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods](https://arxiv.org/abs/2411.12103)
   - Author(s): Jai Doshi, Asa Cooper Stickland
   - Date: 2024-11
@@ -766,7 +911,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy](https://arxiv.org/abs/2410.09591)
   - Author(s): Yangsibo Huang, Daogao Liu, Lynn Chua, Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, Milad Nasr, Amer Sinha, Chiyuan Zhang
   - Date: 2024-10
-  - Venue: -
+  - Venue: ICLR 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/daogaoliu/unlearning-under-adversary)
 - [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
   - Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
@@ -796,8 +941,8 @@ This repository tracks the latest research on machine unlearning in large langua
 - [CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057)
   - Author(s): Alexey Dontsov, Dmitrii Korzh, Alexey Zhavoronkin, Boris Mikheev, Denis Bobkov, Aibek Alanov, Oleg Y. Rogov, Ivan Oseledets, Elena Tutubalina
   - Date: 2024-10
-  - Venue: -
-  - Code: -
+  - Venue: ACL 2025 Findings
+  - Code: https://huggingface.co/datasets/therem/CLEAR
 - [WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models](https://arxiv.org/abs/2410.17509)
   - Author(s): Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo, Sijia Liu
   - Date: 2024-10
@@ -811,7 +956,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454)
   - Author(s): Zhiwei Zhang, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang
   - Date: 2024-10
-  - Venue: -
+  - Venue: ICLR 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zzwjames/FailureLLMUnlearning)
 - [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://arxiv.org/abs/2410.15267)
   - Author(s): Shang Wang, Tianqing Zhu, Dayong Ye, Wanlei Zhou
@@ -826,7 +971,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)
   - Author(s): Shuai Zhao, Xiaobao Wu, Cong-Duy Nguyen, Meihuizi Jia, Yichao Feng, Luu Anh Tuan
   - Date: 2024-10
-  - Venue: -
+  - Venue: ACL 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shuaizhao95/Unlearning)
 - [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](https://arxiv.org/abs/2410.13274)
   - Author(s): Minseok Choi, ChaeHun Park, Dohyun Lee, Jaegul Choo
@@ -836,12 +981,12 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Mechanistic Unlearning: Robust Knowledge Unlearning and Editing via Mechanistic Localization](https://arxiv.org/abs/2410.12949)
   - Author(s): Phillip Guo, Aaquib Syed, Abhay Sheshadri, Aidan Ewart, Gintare Karolina Dziugaite
   - Date: 2024-10
-  - Venue: -
+  - Venue: ICML 2025
   - Code: -
 - [LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/abs/2410.11143)
   - Author(s): Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Parag Shah, Yujia Bao, Yang Liu, Wei Wei
   - Date: 2024-10
-  - Venue: -
+  - Venue: ICLR 2025
   - Code: -
 - [CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept](https://arxiv.org/abs/2410.10866)
   - Author(s): YuXuan Wu, Bonaventure F. P. Dossou, Dianbo Liu
@@ -856,7 +1001,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/abs/2410.08109)
   - Author(s): Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin
   - Date: 2024-10
-  - Venue: -
+  - Venue: ICLR 2025
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sail-sg/closer-look-LLM-unlearning)
 - [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163)
   - Author(s): Chongyu Fan, Jiancheng Liu, Licong Lin, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu
@@ -876,18 +1021,23 @@ This repository tracks the latest research on machine unlearning in large langua
 - [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/abs/2410.03523)
   - Author(s): Yan Scholten, Stephan Günnemann, Leo Schwinn
   - Date: 2024-10
-  - Venue: -
-  - Code: -
+  - Venue: ICLR 2025
+  - Code: https://github.com/yascho/probabilistic-unlearning
 - [Mitigating Memorization In Language Models](https://arxiv.org/abs/2410.02159)
   - Author(s): Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Nathaniel Hudson, Caleb Geniesse, Kyle Chard, Yaoqing Yang, Ian Foster, Michael W. Mahoney
   - Date: 2024-10
   - Venue: -
   - Code: -
+- [DynFrs: An Efficient Framework for Machine Unlearning in Random Forest](https://arxiv.org/abs/2410.01588)
+  - Author(s): Shurong Wang, Zhuoyang Shen, Xinbao Qiao, Tongning Zhang, Meng Zhang
+  - Date: 2024-10
+  - Venue: ICLR 2025
+  - Code: https://github.com/shurongwang/DynFrs
 - [Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning](https://arxiv.org/abs/2410.00382)
   - Author(s): Shota Takashiro, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo
   - Date: 2024-10
-  - Venue: -
-  - Code: -
+  - Venue: ACL 2025 Findings
+  - Code: https://github.com/seele1917/test-time-in-context-unlearning
 - [Rewind-to-Delete: Certified Machine Unlearning for Nonconvex Functions](https://arxiv.org/abs/2409.09778)
   - Author(s): Siqiao Mu, Diego Klabjan
   - Date: 2024-09
@@ -948,11 +1098,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-08
   - Venue: -
   - Code: -
-- [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2408.06621)
+- [Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs](https://arxiv.org/abs/2408.06621)
   - Author(s): Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee
   - Date: 2024-08
-  - Venue: -
-  - Code: -
+  - Venue: ICLR 2025
+  - Code: https://github.com/csm9493/efficient-llm-unlearning
 - [On Effects of Steering Latent Representation for Large Language Model Unlearning](https://arxiv.org/abs/2408.06223)
   - Author(s): Dang Huu-Tien, Trung-Tin Pham, Hoang Thanh-Tung, Naoya Inoue
   - Date: 2024-08
@@ -978,6 +1128,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-08
   - Venue: -
   - Code: -
+- [Scalable and Certifiable Graph Unlearning: Overcoming the Approximation Error Barrier](https://arxiv.org/abs/2408.09212)
+  - Author(s): Lu Yi, Zhewei Wei
+  - Date: 2024-08
+  - Venue: ICLR 2025 (Spotlight)
+  - Code: https://github.com/luyi256/ScaleGUN
 - [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://arxiv.org/abs/2407.20271)
   - Author(s): Haoyu Tang, Ye Liu, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen
   - Date: 2024-07
@@ -988,6 +1143,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Date: 2024-07
   - Venue: -
   - Code: -
+- [On Large Language Model Continual Unlearning](https://arxiv.org/abs/2407.10223)
+  - Author(s): Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
+  - Date: 2024-07
+  - Venue: ICLR 2025
+  - Code: https://github.com/GCYZSL/O3-LLM-UNLEARNING
 - [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://aclanthology.org/2024.emnlp-main.495/)
   - Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   - Date: 2024-07
@@ -1026,7 +1186,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://openreview.net/forum?id=TArmA033BU)
   - Author(s): Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
   - Date: 2024-07
-  - Venue: - ICML 2024
+  - Venue: ICLR 2025
   - Code: -[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://muse-bench.github.io/)
 - [If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers](https://arxiv.org/abs/2407.06411)
   - Author(s): Adriano Hernandez
@@ -1059,6 +1219,16 @@ This repository tracks the latest research on machine unlearning in large langua
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bill-shen-BS/PISTOL)
 - [Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis](https://arxiv.org/abs/2406.15796)
+  - Author(s): Somnath Basu Roy Chowdhury, Krzysztof Choromanski, Arijit Sehanobish, Avinava Dubey, Snigdha Chaturvedi
+  - Date: 2024-06
+  - Venue: ICLR 2025
+  - Code: https://github.com/brcsomnath/S3T
+- [Machine Unlearning Fails to Remove Data Poisoning Attacks](https://arxiv.org/abs/2406.17216)
+  - Author(s): Martin Pawelczyk, Jimmy Z. Di, Yiwei Lu, Ayush Sekhari, Gautam Kamath, Seth Neel
+  - Date: 2024-06
+  - Venue: ICLR 2025
+  - Code: -
+- [Towards Scalable Exact Machine Unlearning Using Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2406.16257)
   - Author(s): Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang, Yangfan Ye, Xiachong Feng, Bing Qin
   - Date: 2024-06
   - Venue: -
@@ -1081,7 +1251,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [Textual Unlearning Gives a False Sense of Unlearning](https://arxiv.org/abs/2406.13348)
   - Author(s): Jiacheng Du, Zhibo Wang, Kui Ren
   - Date: 2024-06
-  - Venue: -
+  - Venue: ICML 2025 Poster
   - Code: -
 - [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://arxiv.org/abs/2406.12354)
   - Author(s): Minseok Choi, Kyunghyun Min, Jaegul Choo
@@ -1121,7 +1291,7 @@ This repository tracks the latest research on machine unlearning in large langua
 - [REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)
   - Author(s): Tomer Ashuach, Martin Tutek, Yonatan Belinkov
   - Date: 2024-06
-  - Venue: -
+  - Venue: ACL 2025 Findings
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tomertech/REVS)
 - [Unlearning with Control: Assessing Real-world Utility for Large Language Model Unlearning](https://arxiv.org/abs/2406.09179)
   - Author(s): Qizhou Wang, Bo Han, Puning Yang, Jianing Zhu, Tongliang Liu, Masashi Sugiyama
@@ -1152,6 +1322,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin
   - Date: 2024-06
   - Venue: -
+  - Code: -
+- [Adversarial Machine Unlearning](https://arxiv.org/abs/2406.07687)
+  - Author(s): Zonglin Di, Sixie Yu, Yevgeniy Vorobeychik, Yang Liu
+  - Date: 2024-06
+  - Venue: ICLR 2025
   - Code: -
 - [Toward Robust Unlearning for LLMs](https://openreview.net/forum?id=4rPzaUF6Ej)
   - Author(s): Rishub Tamirisa, Bhrugu Bharathi, Andy Zhou, Bo Li, Mantas Mazeika
@@ -1192,6 +1367,11 @@ This repository tracks the latest research on machine unlearning in large langua
   - Author(s): Kongyang Chen, Zixin Wang, Bing Mi, Waixi Liu, Shaowei Wang, Xiaojun Ren, Jiaxing Shen
   - Date: 2024-04
   - Venue: -
+  - Code: -
+- [Hessian-Free Online Certified Unlearning](https://arxiv.org/abs/2404.01712)
+  - Author(s): Xinbao Qiao, Meng Zhang, Ming Tang, Ermin Wei
+  - Date: 2024-04
+  - Venue: ICLR 2025
   - Code: -
 - [Offset Unlearning for Large Language Models](https://arxiv.org/abs/2404.11045)
   - Author(s): James Y. Huang, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen
